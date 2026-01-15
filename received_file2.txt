@@ -1,0 +1,2 @@
+This is file 2.
+Another test file with different content.
